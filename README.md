@@ -81,6 +81,9 @@ After collecting this data from the World Bank, we preprocess it using pandas. A
 Using this final dataset, we will implement various machine learning algorithms and data analytics techniques to explore the relationships between these factors. We will create a correlation map and scatter graphs to visualize the data and understand how these factors are correlated.
 
 Additionally, we aim to develop a machine learning model that predicts the future levels of gender inequality in different countries for the current year.
+Relation between Gender Inequality And Climate Change
+![WhatsApp Image 2024-10-06 at 19 29 50_892a1007](https://github.com/user-attachments/assets/080f2d82-d7ff-4c7f-b6af-46a45999b201)
+
 
 
 ## Contributing
